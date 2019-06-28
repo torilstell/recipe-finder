@@ -1,0 +1,31 @@
+{
+  "name": "recipe-finder",
+  "version": "1.0.0",
+  "description": "type in your family recipes, scan from a book, and access internet recipes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torilstell/recipe-finder.git"
+  },
+  "keywords": [
+    "recipes",
+    "cookbooks",
+    "cooking",
+    "baking",
+    "kitchen",
+    "food"
+  ],
+  "author": "Tori Stell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/torilstell/recipe-finder/issues"
+  },
+  "homepage": "https://github.com/torilstell/recipe-finder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
